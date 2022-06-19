@@ -1,4 +1,4 @@
-# Jeu-De-Dame
+# PyDame AI
 
 ## Projet
 Un jeu de dame graphique avec un mode contre ordinateur
