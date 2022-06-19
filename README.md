@@ -53,3 +53,6 @@ L'ordinateur peut être dans 3 états différents.
 - La finale
 	L'ordinateur utilise l'algorithme minimax avec l'élagage alpha-bêta avec une profondeur plus élevée 
 
+## Video
+
+![Presentation](https://github.com/romanradice/Jeu-De-Dame/blob/main/video/presentation.gif)
